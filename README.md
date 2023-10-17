@@ -26,17 +26,17 @@ The general pipeline for the AnomalyGAN is as follows:
 
 This repository contains these 3 folders, which are structured according to our pipeline.
 
-1. [Docker](https://omi-gitlab.e-technik.uni-ulm.de/aml/anomalygan/-/tree/demo/Docker) 
+1. Docker
 
-2. [Anomaly Detection](https://omi-gitlab.e-technik.uni-ulm.de/aml/anomalygan/-/tree/demo/anomalydetection)
+2. Anomaly Detection
 
-3. [Anomaly GAN](https://omi-gitlab.e-technik.uni-ulm.de/aml/anomalygan/-/tree/demo/anomalyGAN)
+3. Anomaly GAN
 
 Lastly, we also provide Jupyter-Notebooks to explore our code / approach.
 
-4. [Notebooks](https://omi-gitlab.e-technik.uni-ulm.de/aml/anomalygan/-/tree/demo/notebooks)
+4. Notebooks
 
-Please enter the time series with anomalies to the [Data Folder](https://omi-gitlab.e-technik.uni-ulm.de/aml/anomalygan/-/tree/demo/data) in order to utilize our approach.
+Please enter the time series with anomalies to the Data Folder in order to utilize our approach.
 
 
 
